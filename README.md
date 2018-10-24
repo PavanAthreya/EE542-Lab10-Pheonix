@@ -1,5 +1,14 @@
-EE542 Lab10
+EE542 - Internet and Cloud Computing
+Fall 2018 - Lab10 - Genomics Common Data
+Professor Young H. Cho
+
 Team Assignment
+
+Team Members:
+A - Ekta Trivedi (etrivedi@usc.edu)
+B - Vishad Shah (vishadsh@usc.edu)
+C - Pavan Athreya (pavan.athreya@usc.edu)
+
 Genomics Common Data
 	1	Run the check.py file. This file should be in the same folder as where the miRNA.csv is present. All files are compatible with Python 3 and above versions eg : $python3 check.py
 	2	Run the parse_file_case_id.py script to get the unique file id for corresponding case ids. After this get the JSON file from the genomimcs data repository.
